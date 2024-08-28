@@ -1,0 +1,97 @@
+.warna1 {
+  background-color: #876445;
+}
+
+.warna2 {
+  background-color: #dbc0aa;
+}
+
+.warna3 {
+  background-color: #aa9f96;
+}
+
+.warna4 {
+  background-color: #6c523d;
+}
+
+.banner {
+  height: 90vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/FOTO\ BANNER.jpg");
+}
+
+.highlighted-kategori {
+  height: 250px;
+}
+
+.kategori-kue-coklat {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/Pudding\ mangga.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.kategori-kue-coklat2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/BrownisMatcha.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.kategori-kue-coklat3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/toping\ oreo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.no-decoration {
+  text-decoration: none;
+  color: white;
+}
+
+.no-decoration:hover {
+  color: #aa9f96;
+}
+
+.gg {
+  color: #000;
+}
+
+/* RADADI */
+.txt-harga {
+  font-size: 20px;
+  color: #aa9f96;
+}
+
+.image-box {
+  height: 250px;
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.content-subscribe {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+  color: #fff;
+}
+
+.banner2 {
+  height: 35vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/FOTO\ BANNER.jpg");
+  background-position: 10% 7%;
+}
+
+.produk-terkait-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.text-harga {
+  color: #c59670;
+}
